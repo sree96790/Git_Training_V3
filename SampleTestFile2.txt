@@ -1,2 +1,3 @@
 this is Sample File 2
 commit revert 2
+This is Comparison change in file2
